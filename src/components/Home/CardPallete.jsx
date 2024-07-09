@@ -13,7 +13,7 @@ function CardPallete() {
                 />
             </div>
 
-            <div className='max-w-96 'style={{maxWidth:'450px'}}>
+            <div className=''style={{maxWidth:'450px'}}>
                 <Card
                     iconUrl={"https://assets.sololearn.com/home-why-solo-2.svg"}
                     title={'Bite-sized'}
@@ -22,16 +22,16 @@ function CardPallete() {
                 />
             </div>
 
-            <div className='max-w-96 flex-grow' style={{maxWidth:'450px'}}>
+            <div className='flex-grow' style={{maxWidth:'450px'}}>
                 <Card
                     iconUrl={"https://assets.sololearn.com/home-why-solo-3.svg"}
                     title={'Get proof'}
                     description={`Earn a certificate to validate your newly acquired skills. Post it on social for others to see.`}
                     btnText={'Become Certified'}
                 />
-            </div>
+            </div>  
 
-            <div className='max-w-96 flex-grow' style={{maxWidth:'450px'}}>
+            <div className='flex-grow' style={{maxWidth:'450px'}}>
                 <Card
                     iconUrl={"https://assets.sololearn.com/home-why-solo-5.svg"}
                     title={'More than 20 courses'}
