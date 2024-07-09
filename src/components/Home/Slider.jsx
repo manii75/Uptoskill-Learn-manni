@@ -12,14 +12,14 @@ function Slider() {
                 />
 
                 <SliderCard
-                    title={'Python developer'}
-                    image={"https://lecontent.sololearn.com/material-images/275e1b30ac2a4af9bc0ba34be18596e8-PythonDeveloper.png"}
+                    title={'Web development'}
+                    image={"https://lecontent.sololearn.com/material-images/63851450a2054ee7a73e58c18b155340-Webdevelopment.png"}
                 />
 
 
                 <SliderCard
-                    title={'Python developer'}
-                    image={"https://lecontent.sololearn.com/material-images/275e1b30ac2a4af9bc0ba34be18596e8-PythonDeveloper.png"}
+                    title={'Artificial intellegence'}
+                    image={"https://lecontent.sololearn.com/material-images/8c336a9b8e3f40429efcc086ea016f3e-AI.png"}
                 />
 
 
