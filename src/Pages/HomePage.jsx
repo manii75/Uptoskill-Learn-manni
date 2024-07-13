@@ -11,7 +11,6 @@ function HomePage() {
         <>
             <Hero />
             <Slider/>
-            <CardPallete />
             <CardPallete2 />
             <Plans/>
             <Success />
