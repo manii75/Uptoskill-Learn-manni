@@ -6,7 +6,7 @@ function Success() {
     
       <img className=' mt-10' src="https://assets.sololearn.com/success-story-1.jpg" alt="success img" />
   
-      <div className="text-center p-6 bg-white shadow-lg rounded-lg">
+      <div className="text-center p-6 bg-grey-100 shadow-lg rounded-lg">
         <h1 className="font-bold mb-4 text-3xl md:text-5xl">
           The Success Story of <span className="text-blue-500 font-serif"><br />Hatsy</span>
         </h1>
