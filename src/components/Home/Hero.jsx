@@ -1,8 +1,12 @@
 import React from 'react'
 
+
 function Hero() {
   return (
     <div className='p-20 bg-gray-900 text-white flex items-center justify-center flex-col font-sans' id="hero">
+
+   
+
         <h2 className='text-3xl lg:text-5xl text-center font-bold mb-2'>Learning to code got simplified.</h2>
         <p className='text-center text-xl'>Learn the latest technology with interactive, hands-on courses. <span className='font-bold'>It’s free.</span></p>
 
