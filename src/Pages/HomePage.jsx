@@ -6,7 +6,7 @@ import Slider from '../components/Home/Slider'
 import Plans from '../components/Home/Plans'
 import Success from '../components/Home/Success'
 import Award from '../components/Home/Award'
-import Courses from '../components/Courses'
+
 
 function HomePage() {
     return (
@@ -17,7 +17,7 @@ function HomePage() {
             <Plans/>
             <Success />
             <Award />
-            <Courses />
+           
         </>
     )
 }
