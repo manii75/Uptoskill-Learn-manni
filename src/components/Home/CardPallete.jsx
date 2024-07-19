@@ -22,7 +22,7 @@ function CardPallete() {
                 />
             </div>
 
-            <div className='flex-grow' style={{maxWidth:'450px'}}>
+            <div className='' style={{maxWidth:'450px'}}>
                 <Card
                     iconUrl={"https://assets.sololearn.com/home-why-solo-3.svg"}
                     title={'Get proof'}
@@ -31,7 +31,7 @@ function CardPallete() {
                 />
             </div>  
 
-            <div className='flex-grow' style={{maxWidth:'450px'}}>
+            <div className='' style={{maxWidth:'450px'}}>
                 <Card
                     iconUrl={"https://assets.sololearn.com/home-why-solo-5.svg"}
                     title={'More than 20 courses'}

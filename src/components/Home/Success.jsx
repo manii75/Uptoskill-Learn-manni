@@ -10,7 +10,7 @@ function Success() {
         <h1 className="font-bold mb-4 text-3xl md:text-5xl">
           The Success Story of <span className="text-blue-500 font-serif"><br />Hatsy</span>
         </h1>
-        <p className="p-4 md:p-10 text-gray-500 text-lg md:text-2xl lg:w-3/4 mx-auto ">
+        <p className="p-4 md:p-10 text-gray-500 text-lg md:text-2xl c mx-auto ">
           "One day at the library, I noticed a stranger using an app that featured tutorials,
            questions, and exercises for C++ programming. It was Sololearn. I thought, 'Neat,
           learning on your mobile phone!' I was just starting to learn to code and I made 
