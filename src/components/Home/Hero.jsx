@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 function Hero() {
   return (
     <div className='p-20 py-52 bg-gray-900 text-white flex items-center justify-center flex-col font-sans' id="hero">
